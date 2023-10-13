@@ -1,4 +1,4 @@
-# Facial-De-identification-in-Head-CT-scans
+# Facial-De-identification-in-Head-CT-scans-MRI-and-CBCT-Scans
 Algorithm using image processing techniques
 
 ### Algorithm 
